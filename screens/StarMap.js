@@ -5,7 +5,7 @@ class StarMap extends React.Component{
     render(){
         return(
             <View style={{flex:1,justifyContent:'center',alignItems:'center'}}>
-                <Text>Star Map</Text>
+                <Text>Space Crafts Screen</Text>
             </View>
         )
     }
